@@ -7,11 +7,11 @@ require "erp/core/version"
 Gem::Specification.new do |s|
   s.name        = "erp_core"
   s.version     = Erp::Core::VERSION
-  s.authors     = ["Nguyen Ngoc Son"]
-  s.email       = ["sonnn@hoangkhang.com.vn"]
-  s.homepage    = "http://timhangcongnghe.com/"
-  s.summary     = "Core - Tim Hang Cong Nghe"
-  s.description = "Core - Tim Hang Cong Nghe"
+  s.authors     = ["Trần Thiện Chí"]
+  s.email       = ["diennuoctranchi@gmail.com"]
+  s.homepage    = "https://diennuoctranchi.com/"
+  s.summary     = "Điện Nước Trần Chí"
+  s.description = "Điện Nước Trần Chí - Thợ Sửa Chữa Điện Nước Tại Biên Hòa"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
